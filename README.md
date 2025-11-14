@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Selenium Test Portfolio
 
 This repository contains automated tests for a web-based application.  
@@ -16,3 +17,7 @@ All sensitive information, such as user data and URLs, has been anonymized for s
 - `test_cases/` – Contains test cases documenting steps, expected results, and conditions.
 
 
+=======
+# selenium-tests
+Selenium test scripts and test cases for a web-based app
+>>>>>>> 3a58972dfc6b69300986fe6fd37d862b47f074fd
