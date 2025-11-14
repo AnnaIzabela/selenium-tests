@@ -18,6 +18,3 @@ All sensitive information, such as user data and URLs, has been anonymized for s
 
 
 =======
-# selenium-tests
-Selenium test scripts and test cases for a web-based app
->>>>>>> 3a58972dfc6b69300986fe6fd37d862b47f074fd
