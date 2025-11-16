@@ -1,7 +1,17 @@
 # Selenium Test Portfolio
 
-This repository contains automated tests for a web-based application.  
-All sensitive information, such as user data and URLs, has been anonymized for security and privacy.
+## 🧪 Automated Web Testing Project 
+This repository contains automated test scripts written in Python using Selenium WebDriver and Pytest.  
+The project demonstrates my skills in:
+- Page Object Model (POM) structure
+- Data-driven testing
+- Test documentation 
+- Use of Faker library for generating test data
+
+**Note:**  
+This is an anonymized version of a real testing project for a commercial application.  
+All sensitive data and access URLs have been replaced or removed to ensure confidentiality.
+
 
 ## Overview
 
