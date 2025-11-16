@@ -9,9 +9,7 @@ All data, environments, and application identifiers have been anonymized to main
 
 ## 🔧 **Key Features**
 - Robot Framework automated web tests  
-- Use of SeleniumLibrary  
 - Separation into **tests**, **libraries**, and **settings**  
-- Reusable keywords and variables  
 - Example implementation of login flow
 
 ---
