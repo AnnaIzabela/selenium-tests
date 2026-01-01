@@ -64,4 +64,3 @@ The main goal of this project is not to demonstrate isolated features, but to sh
 
 This repository represents an anonymized version of a real commercial project.  
 It does not include proprietary business logic, production data or real user information.
-
